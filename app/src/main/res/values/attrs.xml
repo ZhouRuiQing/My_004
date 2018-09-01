@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+     <attr name="MyView" format="dimension"></attr>
+
+    <!-- <attr name="Myhistogram" format="dimension"></attr>-->
+</resources>
